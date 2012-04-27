@@ -1,0 +1,4 @@
+*.dem
+*.o
+demoinfo2
+output.txt
